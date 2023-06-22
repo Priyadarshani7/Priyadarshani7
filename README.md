@@ -37,4 +37,9 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
+<h3 align="left">📈 Stats :</h3>
+<p>
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=Priyadarshani7&show_icons=true&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyadarshani7&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7"/>
+</p>
 
